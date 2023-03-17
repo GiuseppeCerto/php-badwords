@@ -6,4 +6,4 @@ var_dump($_GET);
 
 ?>
 
-<p>Ciao <?php echo $text ?></p>
+<p><?php echo $text ?></p>
