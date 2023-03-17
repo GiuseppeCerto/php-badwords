@@ -8,7 +8,8 @@
 </head>
 <body>
     <form action="censored.php" method="get">
-    <input type="paragraph" name="text" placeholder="Inserisci del testo">
+    <input type="text" name="text" placeholder="Inserisci del testo">
+    <input type="text" name="toCensored" placeholder="Inserisci del testo">
     <button type="submit">Invia</button>
     </form>
 </body>
